@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "Progressive Adversarial Sensitization During LLM Alignment Mirrors Psychiatric Progression"
+abstract: "Kindling in Neural Systems: Progressive Adversarial Sensitization During LLM Alignment Mirrors Psychiatric Progression."
+type: software
+authors:
+  - family-names: "Cheung"
+    given-names: "Ngo"
+repository-code: "https://github.com/cheungngo/Progressive-Adversarial-Sensitization-During-LLM-Alignment-Mirrors-Psychiatric-Progression.git"
+license: "CC-BY-4.0"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Cheung"
+      given-names: "Ngo"
+  year: 2026
+  title: "Kindling in Neural Systems: Progressive Adversarial Sensitization During LLM Alignment Mirrors Psychiatric Progression"
+  publisher: "Zenodo"
+  doi: "10.5281/zenodo.18313201"
+  url: "https://doi.org/10.5281/zenodo.18313201"
